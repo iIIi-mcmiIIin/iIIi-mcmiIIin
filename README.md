@@ -1,2 +1,2 @@
-<img width="600" height="150" alt="Captura de pantalla 2026-09-26 135428" src="https://github.com/user-attachments/assets/57e9d06b-e273-4564-9f6c-a6d0dadc1d91" />
-<img width="600" height="37" alt="tumblr_a4b989cdd720f734e2e369b3947696bd_031f2c71_400" src="https://github.com/user-attachments/assets/4979e45d-b3f5-4828-a698-09df25d0ee6c" />
+<img width="458" height="320" alt="e63a92ce93d7509f96cdf353f8410a0b" src="https://github.com/user-attachments/assets/93cf4dfa-497c-4ae9-905a-0fb0db38d649" />
+
